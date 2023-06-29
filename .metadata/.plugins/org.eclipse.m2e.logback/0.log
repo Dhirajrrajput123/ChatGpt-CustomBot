@@ -1,0 +1,13 @@
+2023-06-29 13:44:57,585 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-29 13:46:54,303 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.dhiraj:chatGpt-Bot:0.0.1-SNAPSHOT @ C:\Users\CW\Desktop\LearnNewThings\chatGpt-Bot\pom.xml.
+2023-06-29 13:46:56,288 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chatGpt-Bot/src/main/java
+2023-06-29 13:46:56,289 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chatGpt-Bot/src/main/resources
+2023-06-29 13:46:56,290 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chatGpt-Bot/src/main/resources
+2023-06-29 13:46:56,291 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chatGpt-Bot/src/test/java
+2023-06-29 13:46:57,321 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 13 sec
+2023-06-29 13:47:02,691 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-29 13:47:02,730 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-29 13:47:02,738 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\CW\Desktop\LearnNewThings\chatGpt-Bot\src\test\resources
+2023-06-29 13:48:54,833 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-29 13:48:54,842 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-29 13:48:54,854 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\CW\Desktop\LearnNewThings\chatGpt-Bot\src\test\resources
