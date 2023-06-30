@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\CW\Desktop\ChatGpt-CustomBot\chatGpt-Bot"/>
 			<item value="C:\Users\CW\Desktop\LearnNewThings\chatGpt-Bot"/>
 		</list>
 		<list key="projectNameTemplate">

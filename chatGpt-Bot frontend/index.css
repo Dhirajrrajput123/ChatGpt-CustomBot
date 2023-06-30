@@ -1,0 +1,33 @@
+body{
+    background-color: aliceblue;
+}
+
+div {
+    font-size: rgb(77, 68, 68);
+    font-size: 2rem;
+    text-align: center;
+    padding: -1rem;
+}
+
+#cont{
+    padding: 2rem;
+    border: 2px solid rebeccapurple;
+}
+
+#joke{
+    font-size: 1.5rem;
+    width: 60%;
+    text-align: center;
+    
+    margin-left: 20%;
+}
+
+input{
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+button{
+    padding: 5px 30px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
